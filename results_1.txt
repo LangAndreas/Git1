@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-ED32ANM
+Date of Test: 2024-11-10 17:58:18
+Bubble Sort Time: 2.985264 seconds
+Quick Sort Time: 0.007156 seconds
+
