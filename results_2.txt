@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-PHILIPP
+Date of Test: 2024-11-10 18:02:10
+Bubble Sort Time: 3.995238 seconds
+Quick Sort Time: 0.009390 seconds
+
